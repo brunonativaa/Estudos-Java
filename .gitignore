@@ -1,0 +1,17 @@
+# Ignorar arquivos compilados
+*.class
+*.jar
+*.war
+build/
+dist/
+
+# Ignorar configurações do NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
